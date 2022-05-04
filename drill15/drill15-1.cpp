@@ -1,6 +1,6 @@
 
 /*
-	g++ 15_drill_1.cpp Graph.cpp Window.cpp GUI.cpp Simple_window.cpp -o 15_drill_1 `fltk-config --ldflags --use-images` -std=c++17
+	g++ drill15-1.cpp Graph.cpp Window.cpp GUI.cpp Simple_window.cpp -o drill15-1 `fltk-config --ldflags --use-images` -std=c++17
 */
 
 #include "std_lib_facilities.h"
